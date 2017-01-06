@@ -197,7 +197,7 @@ echo "Hello world";
 :blush
 ```
 效果：  
-:blush;
+:bowtie:
 
 
 
