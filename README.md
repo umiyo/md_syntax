@@ -9,7 +9,7 @@
 
 ** 目录 ** 
 
-- [横线](#-- 横线 --)
+- [横线](#横线)
 - 标题
 - 文本  
 - 强调
@@ -24,7 +24,7 @@
 - 表格
 - 表情
 
-####-- 横线 --  ####
+#### 横线 ####
 ```
 --- 或 *** 或 ___
 ``` 
@@ -197,7 +197,7 @@ echo "Hello world";
 :bowtie:
 ```
 效果：  
-:bowtie:
+:bowtie:  
 [EMOJI CHEAT SHEET](http://www.webpagefx.com/tools/emoji-cheat-sheet/ "表情支持列表")
 
 
