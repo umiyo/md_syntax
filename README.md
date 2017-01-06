@@ -194,10 +194,11 @@ echo "Hello world";
 
 -- **表情(GFM支持)** --  
 ```
-:blush
+:bowtie:
 ```
 效果：  
 :bowtie:
+[EMOJI CHEAT SHEET](http://www.webpagefx.com/tools/emoji-cheat-sheet/ "表情支持列表")
 
 
 
