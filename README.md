@@ -203,6 +203,6 @@ echo "Hello world";
 :bowtie:  
 [EMOJI CHEAT SHEET](http://www.webpagefx.com/tools/emoji-cheat-sheet/ "表情支持列表")  
 
-#### 更多GFM支持 ####
+#### 更多gfm支持 ####
 
 https://guides.github.com/features/mastering-markdown/#syntax
